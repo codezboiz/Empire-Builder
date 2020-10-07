@@ -1,1 +1,2 @@
-var Harvest = [[images/path/to/Harvest.png|HARVEST]];
+var Harvest = [[../images/Harvest.png|HARVEST]];
+var mainHTML = [[../html/main.html]];
